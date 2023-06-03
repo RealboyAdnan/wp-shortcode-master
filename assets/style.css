@@ -1,0 +1,88 @@
+/* Code preview styles */
+.wpscm-code-section {
+    background: #dbdbdb;
+    padding: 4px 8px 4px 8px;
+}
+.wpscm-code-section span {
+    padding: 2px 4px 2px 4px;
+    margin: 2px;
+}
+.wpscm-copy-button {
+    color: #ffffff;
+    background-color: #010101;
+    cursor: pointer;
+}
+
+.wpscm-lang-name-html {
+    color: #ffffff;
+    background-color: #E34C26;
+}
+.wpscm-lang-name-css {
+    color: #ffffff;
+    background-color: #2965F1;
+}
+.wpscm-lang-name-js {
+    color: #ffffff;
+    background-color: #F7DF1E;
+}
+.wpscm-lang-name-php {
+    color: #ffffff;
+    background-color: #4F5D95;
+}
+.wpscm-lang-name-python {
+    color: #ffffff;
+    background-color: #3572A5;
+}
+.wpscm-lang-name-java {
+    color: #ffffff;
+    background-color: #007396;
+}
+.wpscm-lang-name-swift {
+    color: #ffffff;
+    background-color: #FFAC45;
+}
+.wpscm-lang-name-ruby {
+    color: #ffffff;
+    background-color: #CC342D;
+}
+
+.wpscm-code {
+    position: relative;
+    padding: 1rem;
+    background-color: #1b1b1b;
+    overflow: auto;
+}
+.wpscm-code pre {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.wpscm-code pre code {
+    display: block;
+    word-wrap: normal;
+    white-space: pre;
+}
+.wpscm-code .html {
+    color: #E34C26;
+}
+.wpscm-code .css {
+    color: #2965F1;
+}
+.wpscm-code .js {
+    color: #F7DF1E;
+}
+.wpscm-code .php {
+    color: #4F5D95;
+}
+.wpscm-code .python {
+    color: #3572A5;
+}
+.wpscm-code .java {
+    color: #007396;
+}
+.wpscm-code .swift {
+    color: #FFAC45;
+}
+.wpscm-code .ruby {
+    color: #CC342D;
+}
